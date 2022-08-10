@@ -1,0 +1,19 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "nodeHW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Detrxd/7.2.-Node.js-HW-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Detrxd/7.2.-Node.js-HW-/issues"
+  },
+  "homepage": "https://github.com/Detrxd/7.2.-Node.js-HW-#readme"
+}
