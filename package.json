@@ -1,19 +1,24 @@
 {
-  "name": "homework",
-  "version": "1.0.0",
-  "description": "nodeHW",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Detrxd/7.2.-Node.js-HW-.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Detrxd/7.2.-Node.js-HW-/issues"
-  },
-  "homepage": "https://github.com/Detrxd/7.2.-Node.js-HW-#readme"
+    "name": "homework",
+    "version": "1.0.0",
+    "description": "nodeHW",
+    "main": "index.js",
+    "scripts": {
+        "eslint": "eslint",
+        "prettier": "prettier"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Detrxd/7.2.-Node.js-HW-.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Detrxd/7.2.-Node.js-HW-/issues"
+    },
+    "dependencies": {
+        "eslint": "^8.20.0",
+        "prettier": "^2.7.1"
+    },
+    "homepage": "https://github.com/Detrxd/7.2.-Node.js-HW-#readme"
 }

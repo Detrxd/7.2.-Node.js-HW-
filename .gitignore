@@ -1,3 +1,11 @@
-# index.js
-# package-lock.json
-# package.json
+### VS Code ###
+.vscode/
+
+### Package Files ###
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
